@@ -89,4 +89,4 @@ Show of your work by taking a screenshot of your filled treasure box or code and
 ## Reminder 
 
 Don't forget to shut down your server by hitting `control` and `c` before you move on to other material!
-<a href='https://learn.co/lessons/hs-code-club-plugin-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-code-club-plugin-lab' title='Funny Text Plugin'>Funny Text Plugin</a> on Learn.co and start learning to code for free.</p>
